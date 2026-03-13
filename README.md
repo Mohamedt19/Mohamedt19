@@ -1,11 +1,14 @@
 # Mohamed Tfagha
 
-Full-stack developer focused on building structured business systems.
+Full-Stack Developer focused on building real-world business systems.
 
-### Projects
-• Inventory & Orders System  
-• CRM Sales System  
-• Support Ticket System  
+Tech Stack  
+React • TypeScript • Node.js • Express • PostgreSQL • Prisma
 
 Portfolio  
 https://mohamedtfagha.vercel.app
+
+Featured Projects
+- Inventory & Orders System
+- CRM Sales System
+- Support Ticket System
